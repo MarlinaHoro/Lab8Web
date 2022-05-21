@@ -9,7 +9,7 @@
 
 
 
-     ![2.png](img/2.png)
+     ![2.png](Gambar/2.png)
 
 
 
