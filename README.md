@@ -20,7 +20,7 @@
 
 
 
-    ![png.3](Gambargit/3.png)
+    ![3.png](Gambargit/3.png)
 
 
 
