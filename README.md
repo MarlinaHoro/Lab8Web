@@ -9,7 +9,7 @@
 
 
 
-![Gambar](img/2.png)
+     ![2.png](img/2.png)
 
 
 
@@ -20,5 +20,16 @@
 
 
 
-![gambar](img/3.png)
+    ![img](img/3.png)
+
+
+
+
+
+ 4.    
+
+
+
+
+
 
