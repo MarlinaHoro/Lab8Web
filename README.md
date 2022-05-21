@@ -3,21 +3,16 @@
 
 1. membuat nam database
 
-
-
-
-
-![gambar](img/2.png)
-
-
-
-
-
-
 2. membuat nama tabel database dengan cmd
 
 
+
+
+
 ![Gambar](img/2.png)
+
+
+
 
 
 3. menginsert database
