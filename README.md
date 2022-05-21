@@ -1,9 +1,12 @@
-## Nama : Marlina Horo
-## Nim  : 312010250
+# Nama  : Marlina Horo
+# Nim   : 312010250
+# kelas : Ti 20 A2
 
-1. membuat nam database
 
-2. membuat nama tabel database dengan cmd
+
+1. Membuat nama database
+
+2. Membuat tabel database
 
 
 
@@ -15,7 +18,7 @@
 
 
 
-3. insert databases;
+3. Menambahkan Data ke database
 
 
 
@@ -26,7 +29,23 @@
 
 
 
- 4.    
+    4.
+
+
+
+
+
+ 5. 
+
+
+
+
+
+ 6. membuat file delete
+
+
+
+     ![hapus.png](Gambar/hapus.png)
 
 
 
