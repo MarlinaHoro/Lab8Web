@@ -29,6 +29,13 @@
 
 
 
+4. Membuat file koneksi database
+
+
+![konek.png](Gambar/konek.png)
+
+
+
 
 4. membuat file index
 
