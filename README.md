@@ -15,10 +15,10 @@
 
 
 
+3. insert databases;
 
-3. menginsert database
 
 
-![Gambar](img/3.png)
 
+![gambar](img/3.png)
 
