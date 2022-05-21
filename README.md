@@ -30,7 +30,7 @@
 
 
 
-    4. membuat file index
+4. membuat file index
 
 
     ![indk.png](Gambar/indk%201.png)
@@ -40,7 +40,7 @@
 
     ![indk.png](Gambar/indk%202.png)
 
-    5. hasil
+5. hasil
 
     ![hasilink.png](Gambar/hasilindk.png)
 
@@ -48,7 +48,7 @@
 
 
 
- 6. membuat file delete
+6. membuat file delete
 
 
 
