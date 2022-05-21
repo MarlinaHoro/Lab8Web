@@ -55,6 +55,12 @@
      ![hapus.png](Gambar/hapus.png)
 
 
+7. Hasilnya
+
+
+![hasilh.png](Gambar/hasilh.png)
+
+
 
 
 
