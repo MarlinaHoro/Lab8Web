@@ -8,3 +8,6 @@
 2. membuat nama tabel database dengan cmd
 
 
+![Gambar](Gambar/2.png)
+
+
