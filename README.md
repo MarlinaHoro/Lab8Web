@@ -1,3 +1,7 @@
+
+
+
+
 # Nama  : Marlina Horo
 # Nim   : 312010250
 # kelas : Ti 20 A2
@@ -11,9 +15,7 @@
 
 
 
-
      ![2.png](Gambar/2.png)
-
 
 
 
@@ -25,17 +27,6 @@
 
     ![3.png](Gambar/3.png)
 
-
-
-
-
-    4.
-
-
-
-
-
- 5. 
 
 
 
