@@ -11,3 +11,9 @@
 ![Gambar](img/2.png)
 
 
+3. menginsert database
+
+
+![Gambar](img/3.png)
+
+
