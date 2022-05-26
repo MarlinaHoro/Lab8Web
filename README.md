@@ -53,6 +53,30 @@
 
 
 
+6. membuat file ubah
+
+
+![ubah1.png](Gambar/ubah1.png)
+
+
+
+![ubah2.png](Gambar/ubah2.png)
+
+
+
+![ubah3.png](Gambar/ubah3.png)
+
+
+![ubah4.png](Gambar/ubah4.png)
+
+
+ 6. hasil
+
+
+ ![ubah.png](Gambar/ubah.png)
+
+
+
 
 
 6. membuat file delete
